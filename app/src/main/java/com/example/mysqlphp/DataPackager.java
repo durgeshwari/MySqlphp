@@ -21,7 +21,7 @@ public class DataPackager {
 
         try
         {
-            jo.put("name",name);
+            jo.put("Name",name);
 
 
             Boolean firstValue=true;

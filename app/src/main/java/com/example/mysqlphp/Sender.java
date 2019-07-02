@@ -112,6 +112,6 @@ public class Sender extends AsyncTask<Void,Void,String> {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return name;
+        return null;
     }
 }
